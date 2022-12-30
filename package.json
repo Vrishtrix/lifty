@@ -12,6 +12,8 @@
     "@master/css": "^1.37.8",
     "@master/normal.css": "^2.0.0-beta.84",
     "@next/font": "13.0.7",
+    "@supabase/auth-helpers-nextjs": "^0.5.2",
+    "@supabase/auth-helpers-react": "^0.3.1",
     "@supabase/supabase-js": "^2.2.1",
     "@types/node": "18.11.17",
     "@types/react": "18.0.26",
